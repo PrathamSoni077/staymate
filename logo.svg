@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Circular soft badge background -->
+  <rect width="100" height="100" rx="28" fill="#5B5BD6" />
+  
+  <!-- Subtle background glow -->
+  <circle cx="50" cy="50" r="38" fill="white" fill-opacity="0.08" />
+  
+  <!-- Cozy House Shape -->
+  <path d="M50 20L22 44V76C22 79.3137 24.6863 82 28 82H72C75.3137 82 78 79.3137 78 76V44L50 20Z" fill="#FFF6EA"/>
+  
+  <!-- Chimney with soft smoke -->
+  <path d="M64 28V36L72 43V28C72 26.8954 71.1046 26 70 26H66C64.8954 26 64 26.8954 64 28Z" fill="#F0E6D8"/>
+  <circle cx="68" cy="19" r="2.5" fill="#FFF6EA" fill-opacity="0.7"/>
+  <circle cx="71" cy="13" r="3.5" fill="#FFF6EA" fill-opacity="0.4"/>
+  
+  <!-- House Doorway with warm friendly arch -->
+  <path d="M42 82V58C42 53.5817 45.5817 50 50 50C54.4183 50 58 53.5817 58 58V82H42Z" fill="#5B5BD6"/>
+  <circle cx="55" cy="67" r="1.5" fill="#FFF6EA"/>
+
+  <!-- Window with warm light -->
+  <rect x="30" y="52" width="8" height="10" rx="3" fill="#FDE68A"/>
+
+  <!-- Sprouting Organic Green Leaf (representing growth, fresh starts & eco-friendly stay) -->
+  <g transform="translate(48, 14)">
+    <path d="M2 18C2 9.5 8 2 16 0C16 8.5 10 16 2 18Z" fill="#22C55E"/>
+    <path d="M2 18C5 12 10 7 16 0" stroke="#16A34A" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M2 18C0 14 -4 10 -9 9C-9 14 -5 17 2 18Z" fill="#4ADE80"/>
+  </g>
+
+  <!-- Sparkle AI star -->
+  <path d="M26 28L27.5 32.5L32 34L27.5 35.5L26 40L24.5 35.5L20 34L24.5 32.5L26 28Z" fill="#FBBF24"/>
+</svg>
